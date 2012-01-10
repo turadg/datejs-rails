@@ -22,7 +22,7 @@ available as well. For instance, you could instead:
 
     //= require date-fr-FR
 
-Optionally, require `extras.js` for `strftime` and other [FormatSpecifiers](http://code.google.com/p/datejs/wiki/FormatSpecifiers).
+Optionally, require `extras.js` for `strftime`-style [FormatSpecifiers](http://code.google.com/p/datejs/wiki/FormatSpecifiers).
 
     //= require datejs-extras
     
